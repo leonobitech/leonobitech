@@ -35,6 +35,15 @@ End-to-end: **the agents themselves, the production infrastructure, and the cust
 
 ---
 
+## 🎯 Why Leonobitech
+
+- **We ship, we don't prototype.** Every system here runs in production, not in a demo video.
+- **Full-stack accountability.** From the agent prompts to the Docker containers — one team owns the whole pipeline.
+- **Claude-native architecture.** Built on Anthropic's stack, deeply integrated through custom MCP servers.
+- **LATAM-priced, US-quality engineering.** SMB-friendly pricing without compromises on architecture or reliability.
+
+---
+
 ## 💼 Product Suite
 
 | Product | What it does |
